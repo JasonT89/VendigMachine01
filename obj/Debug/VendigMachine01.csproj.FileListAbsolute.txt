@@ -1,0 +1,7 @@
+C:\Users\Jason\Desktop\VendigMachine01\VendigMachine01\bin\Debug\VendigMachine01.exe.config
+C:\Users\Jason\Desktop\VendigMachine01\VendigMachine01\bin\Debug\VendigMachine01.exe
+C:\Users\Jason\Desktop\VendigMachine01\VendigMachine01\bin\Debug\VendigMachine01.pdb
+C:\Users\Jason\Desktop\VendigMachine01\VendigMachine01\obj\Debug\VendigMachine01.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\VendigMachine01\VendigMachine01\obj\Debug\VendigMachine01.exe
+C:\Users\Jason\Desktop\VendigMachine01\VendigMachine01\obj\Debug\VendigMachine01.pdb
+C:\Users\Jason\Desktop\VendigMachine01\VendigMachine01\obj\Debug\VendigMachine01.csprojResolveAssemblyReference.cache
